@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Jocelyn Flores",
+  "base_artist": "XXXTENTACION",
+  "createdAt": "2026-02-12T05:53:17.128592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/01_Jocelyn_Flores_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTentacion",
+      "has_synced": true,
+      "path": "select/02_Jocelyn_Flores_XXXTentacion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/03_Jocelyn_Flores_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "XXXTENTACION - Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/04_XXXTENTACION_-_Jocelyn_Flores_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jocelyn Flores...",
+      "artist": "Draco Wave",
+      "has_synced": false,
+      "path": "select/05_Jocelyn_Flores..._Draco_Wave.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/06_Jocelyn_Flores_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTentacion",
+      "has_synced": true,
+      "path": "select/07_Jocelyn_Flores_XXXTentacion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "XXXTENTACION - Jocelyn Flores (Lyrics)",
+      "artist": "Isaiyah",
+      "has_synced": true,
+      "path": "select/08_XXXTENTACION_-_Jocelyn_Flores_(Lyrics)_Isaiyah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/09_Jocelyn_Flores_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/10_Jocelyn_Flores_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "XXXTENTACION - Jocelyn Flores (Audio)",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/11_XXXTENTACION_-_Jocelyn_Flores_(Audio)_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jocelyn Flores (ft. Shiloh Dynasty)",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/12_Jocelyn_Flores_(ft._Shiloh_Dynasty)_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ｊｏｃｅｌｙｎ ｆｌｏｒｅｓ",
+      "artist": "Mike.",
+      "has_synced": false,
+      "path": "select/13_jocelyn_flores_Mike..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jocelyn Flores",
+      "artist": "Q.Z.B",
+      "has_synced": true,
+      "path": "select/14_Jocelyn_Flores_Q.Z.B.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jocelyn Flores",
+      "artist": "XXXTENTACION",
+      "has_synced": false,
+      "path": "select/pl_01_Jocelyn_Flores_XXXTENTACION.txt"
+    }
+  ]
+}
